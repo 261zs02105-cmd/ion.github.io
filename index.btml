@@ -7,29 +7,18 @@
   </head>
   <body>
     <h1>いおん</h1>
-  </body>
-</html>
-<!DOCTYPE html>
-<html lang="ja">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>いおんのポートフォリオ</title>
-  </head>
-  <body>
-    <h1>いおん</h1>
 
     <h2>About</h2>
     <p>
-      いおんです<br>
-      食品についての知識があります。食品衛生責任者の資格を持ってます。
+      いおんです。<br>
+      食品についての知識があります。食品衛生責任者の資格を持っています。
     </p>
 
     <h3>Profile</h3>
     <ul>
-      <li>名前いおん</li>
-      <li>所在地　沖縄　八重瀬町</li>
-      <li>得意領域　農業鑑定（食品）　パンを作る事　</li>
+      <li>名前：いおん</li>
+      <li>所在地：沖縄県八重瀬町</li>
+      <li>得意領域：農業鑑定（食品）、パンを作ること</li>
     </ul>
 
     <h3>Skills</h3>
@@ -48,13 +37,14 @@
       </tr>
       <tr>
         <th>資格、免許</th>
-        <td>食品衛生責任者　小型車両系建設機械整地　プレゼンテーション作成検定１級など</td>
+        <td>食品衛生責任者、小型車両系建設機械整地、プレゼンテーション作成検定1級 など</td>
       </tr>
     </table>
 
     <h3>Works</h3>
-    <p>高校３年間バイオテクノロジー部として活動、沖縄県学校農業クラブ連盟大会プロジェクトI類優秀賞、日本学校農業クラブ連盟大会農業鑑定競技会優秀賞　など</p>
+    <p>高校3年間バイオテクノロジー部として活動。沖縄県学校農業クラブ連盟大会プロジェクトI類優秀賞、日本学校農業クラブ連盟大会農業鑑定競技会優秀賞 など</p>
     <ul>
+      <!-- ご自身のアカウントURLに書き換えてください -->
       <li><a href="https://github.com/">GitHub</a></li>
       <li><a href="https://qiita.com/">Qiita</a></li>
       <li><a href="https://zenn.dev/">Zenn</a></li>
@@ -68,28 +58,32 @@
     </ul>
 
     <h3>Contact</h3>
-    <p>000-0000ー0000</p>
+    <!-- 公開する場合はご自身の連絡先に書き換えてください -->
     <ul>
       <li><a href="mailto:name@example.com">Mail</a></li>
-      <li><a href="https://twitter.com/n_yobikou">X(旧 Twitter)</a></li>
-      <li><a href="https://www.linkedin.com/">LinkedIn</a></li>
+      <li><a href="https://twitter.com/">X (旧 Twitter)</a></li>
     </ul>
 
     <h3>History</h3>
-    <p>南部農林高等学校、食品加工科卒業　ZEN大学在籍中　飲食チェーン店のホール4年目</p>
+    <p>南部農林高等学校 食品加工科卒業 / ZEN大学在籍中 / 飲食チェーン店のホール4年目</p>
     <table>
       <tr>
         <th>2023年</th>
-        <td><a href="https://dwango.co.jp/">飲食チェーン店</a> 入社</td>
+        <td>沖縄県立 南部農林高等学校 食品加工科 卒業</td>
       </tr>
       <tr>
         <th>2023年</th>
-        <td>沖縄県立 <a href="https://nnn.ed.jp/">南部農林高等学校食品加工科</a> 卒業</td>
+        <td>飲食チェーン店 入社</td>
       </tr>
       <tr>
-        <th>2023 年 2024年　2025年　2026年</th>
-        <td>2023年沖縄県学校農業クラブ連盟大会プロジェクトI類優秀賞、沖縄タイムス新聞掲載　バイオ甲子園８位入賞2024年沖縄作物ネットワーク優秀ポスター賞2025年日本学校農業クラブ連盟大会農業鑑定競技会優など</td>
+        <th>2023年〜2026年</th>
+        <td>
+          2023年：沖縄県学校農業クラブ連盟大会プロジェクトI類優秀賞、沖縄タイムス新聞掲載、バイオ甲子園8位入賞<br>
+          2024年：沖縄作物ネットワーク優秀ポスター賞<br>
+          2025年：日本学校農業クラブ連盟大会農業鑑定競技会優秀賞 など
+        </td>
       </tr>
     </table>
   </body>
 </html>
+     
